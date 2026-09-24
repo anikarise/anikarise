@@ -1,8 +1,6 @@
 # Hi, I'm Anika 👋
 
-💻 Computer Science Student  
-🎨 Creative Coder  
-🚀 Learning Web & Software Development  
+💻 Computer Science | Software Development | Cybersecurity 
 
 ## Skills
 - HTML
